@@ -13,6 +13,4 @@ class Solution:
 
 nums=[1,3,5,6]
 target=5
-# target=2
-# target=7
 print(Solution().searchInsert(nums,target))
